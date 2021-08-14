@@ -11,7 +11,7 @@ vue create vue-demo
 ```
 下面是我选择的配置
 
-![image](WEBRESOURCE8a5187336479031df8aecbc08cff9748)
+![](https://note.youdao.com/yws/public/resource/273d63d95668d0005a9eaa0e1b598350/WEBRESOURCE8a5187336479031df8aecbc08cff9748?ynotemdtimestamp=1628918382981)
 
 我们使用审查命令看看最终的输出结果
 ```javascript
